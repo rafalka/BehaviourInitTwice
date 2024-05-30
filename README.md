@@ -1,0 +1,1 @@
+.NET MAUI Project crated to illustrate a bug https://github.com/dotnet/maui/issues/22740
